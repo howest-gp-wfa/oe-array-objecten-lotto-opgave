@@ -1,10 +1,10 @@
-"use strickt";
+"use strict";
 
 // Globale Variabelen
 
-window.addEventListener('load',Initieer);
+window.addEventListener('load',initialise);
 
-function Initieer(){
+function initialise() {
   // Linken van DOM Elementen
 
 
