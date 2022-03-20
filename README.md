@@ -11,9 +11,9 @@ Na de keuze klik je op de knop trekking en zie je de lottocijfers, welke random 
 ![Standaard_Output](img/Lotto_Standaard.png)
 
 Werk deze toepassing uit en zorg voor de correcte foutmeldingen wanneer :
-- De gebruiker geen geldige nummers ingeeft (tussen 0 en 44).
+- De gebruiker geen geldige nummers ingeeft (geldig tussen 0 en 44(niet inbegrepen)).
 - De gebruiker lege velden laat in zijn combinatie
-- Zorg er tevens voor dat de getrokken lottocijfers verschillend zijn, door hiervoor een correct algoritme te bedenkeen
+- Zorg er tevens voor dat de gekozen lottocijfers verschillend zijn, door hiervoor een correct algoritme te bedenken
 
 
 ![Voorbeeld_Foutmelding](img/Lotto_Foutmelding.png)
