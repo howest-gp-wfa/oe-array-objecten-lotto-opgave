@@ -2,9 +2,9 @@
 
 // Globale Variabelen
 
-window.addEventListener('load',initialise);
+window.addEventListener('load',initialize);
 
-function initialise() {
+function initialize() {
   // Linken van DOM Elementen
 
 
